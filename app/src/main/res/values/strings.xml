@@ -1,0 +1,102 @@
+ <resources>
+        <string name="app_name">AndroidQuiz</string>
+        <string name="title">What do you know about Android operating system and writing apps for it?</string>
+        <string name="testPassed">Congratulations, you passed the test!</string>
+        <string name="testFailed">Sadly, not passed. Better luck next time!</string>
+        <string name="submit">Submit</string>
+        <string name="sample">Sample Text</string>
+        <string name="hint">Type answer here</string>
+        <string name="score">You haven\'t set answers yet.</string>
+        <string name="reset">Reset Questions</string>
+
+    <string name="singleChoiceQuestion1">How many versions of Android was released until 2018?</string>
+    <string-array name="singleChoiceQuestion1">
+        <item>@string/singleChoiceQuestion1</item>
+        <item>20</item>
+        <item>24</item>
+        <item>26</item>
+        <item>32</item>
+        <item>24</item>
+    </string-array>
+
+    <string name="singleChoiceQuestion2">Android was first intended as operating system for ...</string>
+    <string-array name="singleChoiceQuestion2">
+        <item>@string/singleChoiceQuestion2</item>
+        <item>smartphones</item>
+        <item>digital cameras</item>
+        <item>microwaves</item>
+        <item>androids</item>
+        <item>digital cameras</item>
+    </string-array>
+
+    <string name="singleChoiceQuestion3">In which year was released newest version of Android (Oreo 8.1)?</string>
+    <string-array name="singleChoiceQuestion3">
+        <item>@string/singleChoiceQuestion3</item>
+        <item>August 21, 2017</item>
+        <item>October 4, 2017</item>
+        <item>October 5, 2017</item>
+        <item>December 5, 2017</item>
+        <item>December 5, 2017</item>
+    </string-array>
+    <string name="singleChoiceQuestion4">How is called Android class which can be used for calling other app with description of operation to perform?</string>
+    <string-array name="singleChoiceQuestion4">
+        <item>@string/singleChoiceQuestion4</item>
+        <item>Intent</item>
+        <item>AsyncTaskLoader</item>
+        <item>ConnectivityManager</item>
+        <item>InterAppData</item>
+        <item>Intent</item>
+    </string-array>
+
+
+    <string name="multipleChoiceQuestion1">Android versions are named...</string>
+    <string-array name="multipleChoiceQuestion1">
+        <item>@string/multipleChoiceQuestion1</item>
+        <item>after sweet treats and desserts</item>
+        <item>after famous inventors</item>
+        <item>by employees daughters</item>
+        <item>in alphabetical order</item>
+    </string-array>
+    <string-array name="multipleChoiceQuestion1Answers">
+        <item>after sweet treats and desserts</item>
+        <item>in alphabetical order</item>
+    </string-array>
+
+    <string name="multipleChoiceQuestion2">What was first commercial device that used Android?</string>
+    <string-array name="multipleChoiceQuestion2">
+        <item>@string/multipleChoiceQuestion2</item>
+        <item>Era G1</item>
+        <item>IBM Simon</item>
+        <item>HTC Dream</item>
+        <item>T-Mobile G1</item>
+    </string-array>
+    <string-array name="multipleChoiceQuestion2Answer">
+        <item>Era G1</item>
+        <item>HTC Dream</item>
+        <item>T-Mobile G1</item>
+    </string-array>
+
+    <string name="multipleChoiceQuestion3">Which of the following programming languages are also used for writing Android apps?</string>
+    <string-array name="multipleChoiceQuestion3">
+        <item>@string/multipleChoiceQuestion3</item>
+        <item>Scala</item>
+        <item>Ruby</item>
+        <item>C++</item>
+        <item>Go</item>
+    </string-array>
+    <string-array name="multipleChoiceQuestion3Answer">
+        <item>Scala</item>
+        <item>C++</item>
+    </string-array>
+
+    <string-array name="openQuestion1">
+        <item>In which year was released first mobile under Android OS?</item>
+        <item>2008</item>
+    </string-array>
+
+    <string name="openQuestion2">In which year Google bought Android?</string>
+    <string-array name="openQuestion2">
+        <item>@string/openQuestion2</item>
+        <item>2005</item>
+    </string-array>
+</resources>
